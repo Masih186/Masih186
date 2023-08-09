@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Masih Amini
 - 👀 I’m interested in soft material, 4D printing and Machine Learning
 - 🌱 I’m currently learning Regression and machine learning and the application of these methods in mechanical engineering to predict some unk situation
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on my interesting fields reasearch
+- 📫 How to reach me masihamini2013@gmail.com
 
 <!---
 Masih186/Masih186 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
